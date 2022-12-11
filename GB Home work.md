@@ -64,3 +64,5 @@ In the folder from the desktop, create a file -> Assign the file the name "GB Ho
 **If you enter: Git diff we will see the difference of versions**
 
 We have gone through the process of creating a file and committing to it.
+
+~~continuation of work at the third seminar~~
